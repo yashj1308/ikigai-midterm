@@ -1,0 +1,14 @@
+.navbar {
+    border-bottom: rgb(255, 136, 0) solid 5px;
+  }
+  
+  #services .card:hover {
+    background: #2d3436;
+    color: #ffff;
+  }
+  body {
+    background-color: rgb(209, 209, 209);
+  }
+  .footer{
+    background-color: rgb(41, 40, 40);
+  }
